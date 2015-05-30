@@ -57,7 +57,7 @@ How can teapot transform?
 
 ## Next
 
-I don't have a clean plan now. I thought to finish all of these in one week, and think about something fancier after that. 
+I don't have a clean plan now. I've planned to finish all of these in one week, and think about something fancier after that. But now, I think I should go to office hour for help.
 
 
 
