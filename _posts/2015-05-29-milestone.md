@@ -34,8 +34,10 @@ But how can it be wrong with normals input?
 There is something more weired for my teapot.
 In my vertex shader, there are two lines, if I write like this:
 
+
 ```
 normal_eyespace = normals/10;
+
 normal_eyespace = vertex;
 ```
 
@@ -44,8 +46,10 @@ I get:
 ![](../img3/teapot.gif)
 
 However, if I comment one line, like:
+
 ```
 //normal_eyespace = normals/10;
+
 normal_eyespace = vertex;
 ```
 
