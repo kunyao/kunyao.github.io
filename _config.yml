@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            CSE-190
+title:            Blog
 tagline:          by Kunyao Chen
 url:              http://kunyao.github.io
 paginate:         1
